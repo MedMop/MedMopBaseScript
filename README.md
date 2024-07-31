@@ -1,1 +1,1 @@
-Person skeleton script
+Personal skeleton script

@@ -834,6 +834,4 @@ public class LocalPlayerUtility {
         var rockertunitySparkles = SpotAnimationQuery.newQuery().ids(7164, 7165).results();
         return rockertunitySparkles.size() > 0;
     }
-
-
 }
